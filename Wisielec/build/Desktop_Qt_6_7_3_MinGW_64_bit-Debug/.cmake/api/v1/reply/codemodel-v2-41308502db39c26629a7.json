@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WisielecStandalone",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "WisielecStandalone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WisielecStandalone-Debug-65de6a1ade575f3fc75a.json",
+					"name" : "WisielecStandalone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WisielecStandalone_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WisielecStandalone_autogen-Debug-685297f3b64ba1d6a8a0.json",
+					"name" : "WisielecStandalone_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WisielecStandalone_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WisielecStandalone_autogen_timestamp_deps-Debug-d0d25a1aadc777434016.json",
+					"name" : "WisielecStandalone_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/danie/OneDrive/Dokumenty/Wisielec/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/danie/OneDrive/Dokumenty/Wisielec"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
